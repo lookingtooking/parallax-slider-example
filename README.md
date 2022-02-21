@@ -1,1 +1,1 @@
-# parallax-slider-example
+https://lookingtooking.github.io/parallax-slider-example/
